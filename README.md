@@ -1,3 +1,2 @@
 # Sobre mim
-Sou estudante do 1° período de Análise e desenvolvimento de sistemas 
-do Biopark, tenho 18 anos de idade e estou estudando pra no futuro me formar e ser um ótimo profissional da área
+🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, em busca de me tornar um desenvolvedor completo. Estou sempre aprendendo novas tecnologias e colocando a mão no código para evoluir cada dia mais!
